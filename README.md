@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @zgjs on GitHub and @zgjsdev on Twitter.
+- 🏫 I'm a Computer Science Student at NIU.
+- 👀 I’m interested in full-stack development and robotics.
+- 🌱 I’m currently learning Arduino, assembly, C, micropython, ROS.
+- 👯 I’m looking to collaborate on robotics projects.
+- 💬 Ask me about Linux, VMs, containers, devops.
+- 📫 How to reach me: zgjs@zgjs.dev
+- 😄 Pronouns: he/him
+- 🌐 My website: https://zgjs.dev/

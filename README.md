@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @zgjs on GitHub and @zgjsdev on Twitter.
+- 🏫 I'm a Computer Science Student at NIU.
+- 👀 I’m interested in full-stack development, devops, and robotics.
+- 🌱 I’m currently learning Golang.
+- 📫 How to reach me: github@zgjs.dev
+- 😄 Pronouns: he/him
+- 🌐 My website: https://zgjs.dev/
